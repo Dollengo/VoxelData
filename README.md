@@ -31,4 +31,6 @@ Example:
 ## Example 2:
 ![Example3](https://github.com/Dollengo/VoxelData/assets/131563888/718f38d6-7bdc-4d39-b71a-27b534724fb0)
 
-[Download]: (https://github.com/Dollengo/VoxelData/releases/tag/VoxelData)
+# [Tutorial Download](Download)
+
+[Download]: (https://github.com/Dollengo/VoxelData/releases/tag/VoxelData-latest)
