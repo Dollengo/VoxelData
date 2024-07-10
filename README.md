@@ -12,6 +12,6 @@
   <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/dollengo/dollos?style=for-the-badge">
 </p>
 
-[![Latest Release](https://img.shields.io/badge/RELEASE-v2.1-green)][Download]
+[![Latest Release](https://img.shields.io/badge/RELEASE-v1.0.0-blue)][Download]
 
 [Download]: (https://github.com/Dollengo/VoxelData/releases/tag/VoxelData)
